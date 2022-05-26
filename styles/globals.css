@@ -19,3 +19,11 @@ a {
   box-sizing: border-box;
 }
 
+.nav-ul li a{
+  color: gray;
+}
+
+.active{
+  color: black !important;
+}
+
